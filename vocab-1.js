@@ -603,6 +603,37 @@ window.VOCAB = {
       {en:"to exchange; exchange", trad:"兌換", simp:"兑换", py:"duìhuàn"},
       {en:"foreign currency", trad:"外幣", simp:"外币", py:"wàibì"},
       {en:"counter", trad:"櫃台", simp:"柜台", py:"guìtái"}
+    ],
+    "Lesson 2-7": [
+      {en:"winter vacation", trad:"寒假", simp:"寒假", py:"hánjià"},
+      {en:"tour", trad:"旅遊", simp:"旅游", py:"lǚyóu"},
+      {en:"travel agency", trad:"旅行社", simp:"旅行社", py:"lǚxíngshè"},
+      {en:"to book, make reservations", trad:"訂", simp:"订", py:"dìng"},
+      {en:"plane ticket", trad:"機票", simp:"机票", py:"jīpiào"},
+      {en:"to envy", trad:"羨慕", simp:"羡慕", py:"xiànmù"},
+      {en:"to plan; plan", trad:"打算", simp:"打算", py:"dǎsuàn"},
+      {en:"relative", trad:"親戚", simp:"亲戚", py:"qīnqi"},
+      {en:"originally", trad:"原來", simp:"原来", py:"yuánlái"},
+      {en:"to manage to find time", trad:"抽空", simp:"抽空", py:"chōukòng"},
+      {en:"to visit; a visit", trad:"拜訪", simp:"拜访", py:"bàifǎng"},
+      {en:"always", trad:"一直", simp:"一直", py:"yìzhí"},
+      {en:"to check", trad:"查", simp:"查", py:"chá"},
+      {en:"website", trad:"網站", simp:"网站", py:"wǎngzhàn"},
+      {en:"cannot afford to buy", trad:"買不起", simp:"买不起", py:"mǎibuqǐ"},
+      {en:"to succeed in buying", trad:"買到", simp:"买到", py:"mǎidào"},
+      {en:"to be able to find", trad:"找得到", simp:"找得到", py:"zhǎodedào"},
+      {en:"inexpensive", trad:"便宜", simp:"便宜", py:"piányi"},
+      {en:"as a matter of fact, actually", trad:"其實", simp:"其实", py:"qíshí"},
+      {en:"if", trad:"要是", simp:"要是", py:"yàoshì"},
+      {en:"southern part", trad:"南方", simp:"南方", py:"nánfāng"},
+      {en:"to be like spring all year round", trad:"四季如春", simp:"四季如春", py:"sìjìrúchūn"},
+      {en:"with picturesque scenic beauty", trad:"風景如畫", simp:"风景如画", py:"fēngjǐngrúhuà"},
+      {en:"minority nationalities", trad:"少數民族", simp:"少数民族", py:"shǎoshùmínzú"},
+      {en:"if", trad:"如果", simp:"如果", py:"rúguǒ"},
+      {en:"visa", trad:"簽證", simp:"签证", py:"qiānzhèng"},
+      {en:"to apply, process", trad:"辦", simp:"办", py:"bàn"},
+      {en:"probably", trad:"大概", simp:"大概", py:"dàgài"},
+      {en:"to have enough time to", trad:"來得及", simp:"来得及", py:"láidejí"}
     ]
   }
 };
